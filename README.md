@@ -2,7 +2,7 @@
   <h1>✍️ Klinko Creative Brief Generator</h1>
   <p><strong>Convert audience intelligence into an actionable creative brief.</strong></p>
   <p>
-    <a href="https://github.com/klinkoai/ai-market-research-skills">🧭 Explore all Klinko Skills</a> ·
+    <a href="https://github.com/klinkoai/ai-market-research-skills">⬇️ Install Klinko Skills</a> ·
     <a href="https://klinko.ai/en/">🌐 Klinko</a> ·
     <a href="https://home.klinko.ai">🚀 Start Market Research</a>
   </p>
@@ -10,9 +10,9 @@
 
 ## What is Klinko Creative Brief Generator?
 
-Klinko Creative Brief Generator is an AI agent Skill for translating audience and market context into clear creative direction. It organizes the objective, target audience, customer tension, desired response, message hierarchy, supporting points, tone, deliverables, and constraints so internal teams and external creators can produce work from the same strategic foundation.
+Klinko Creative Brief Generator is an AI market research skill for translating audience and market context into clear creative direction. It organizes the objective, target audience, customer tension, desired response, message hierarchy, supporting points, tone, deliverables, and constraints so internal teams and external creators can produce work from the same strategic foundation.
 
-## What this AI agent Skill helps you do
+## What this skill helps you do
 
 - Turn research and strategy into a usable creative brief
 - Define the audience, objective, and central customer tension
@@ -35,7 +35,7 @@ Klinko Creative Brief Generator is an AI agent Skill for translating audience an
 | Message hierarchy | Keep communication focused |
 | Direction and constraints | Give creators actionable boundaries |
 
-## Example workflow
+## Example research process
 
 1. Describe the product, idea, audience, or market you want to understand.
 2. Add relevant public context such as geography, category, goals, or constraints.
@@ -53,7 +53,7 @@ Klinko Creative Brief Generator is an AI agent Skill for translating audience an
 - Primary message, supporting points, and desired response
 - Tone, formats, mandatories, and creative guardrails
 
-## Who this Skill is for
+## Who this skill is for
 
 - Creative strategists
 - Marketing teams
@@ -65,13 +65,13 @@ Klinko Creative Brief Generator is an AI agent Skill for translating audience an
 - [Codex](https://openai.com/codex/)
 - [Claude Code](https://www.anthropic.com/claude-code)
 
-The installable Skill package and shared Klinko API integration are in development. This repository is the canonical public page for the Creative Brief Generator workflow and will contain installation instructions when access opens.
+The workflow is complete and included in the single installable [Klinko Market Research Skill](https://github.com/klinkoai/ai-market-research-skills). This repository remains the canonical public documentation page for the Creative Brief Generator workflow.
 
 ## Klinko access
 
-This Skill will use the shared Klinko public API and return decision-ready results in an agent-friendly format. One Klinko API key will work across the complete Skill collection.
+This skill uses the authenticated Klinko MCP runtime and returns decision-ready results in an agent-friendly format. Each user connects with their own Klinko API key; rotating it revokes the old key in both validated clients.
 
-## Related Klinko Skills
+## Related Klinko skills
 
 - [Buyer Persona Builder](https://github.com/klinkoai/klinko-buyer-persona-builder)
 - [Content Strategy Builder](https://github.com/klinkoai/klinko-content-strategy-builder)
@@ -79,8 +79,8 @@ This Skill will use the shared Klinko public API and return decision-ready resul
 
 ## About Klinko
 
-[Klinko](https://klinko.ai/en/) is an audience decision engine that helps teams understand communities, customer needs, market opportunities, positioning, and content direction. Explore the complete [Klinko AI Market Research Skills catalog](https://github.com/klinkoai/ai-market-research-skills).
+[Klinko](https://klinko.ai/en/) is an audience decision engine that helps teams understand communities, customer needs, market opportunities, positioning, and content direction. Explore the complete [Klinko AI Market Research Skills](https://github.com/klinkoai/ai-market-research-skills).
 
 ---
 
-Maintained by [Klinko](https://github.com/klinkoai) · Contact [business@klinko.ai](mailto:business@klinko.ai) · Last updated August 3, 2026
+Maintained by [Klinko](https://github.com/klinkoai) · Contact [business@klinko.ai](mailto:business@klinko.ai) · Last updated August 7, 2026
