@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This repository is archived.** Evidence-led creative and content direction is now covered by [Klinko Content Strategy Builder](https://github.com/klinkoai/klinko-content-strategy-builder). Use the [current six-skill catalog](https://github.com/klinkoai/ai-market-research-skills) for installation and maintained documentation.
+
 <div align="center">
   <h1>✍️ Klinko Creative Brief Generator</h1>
   <p><strong>Convert audience intelligence into an actionable creative brief.</strong></p>
